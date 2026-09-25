@@ -16,6 +16,9 @@ public class PlayerScript : MonoBehaviour
     public InputAction crouchAction;
     public InputAction jumpAction;
     public InputAction interactAction;
+    public InputAction attackAction;
+
+    public Animator anim;
 
 
 
@@ -32,6 +35,7 @@ public class PlayerScript : MonoBehaviour
         crouchAction = InputSystem.actions.FindAction("Crouch");
         interactAction = InputSystem.actions.FindAction("Interact");
         jumpAction = InputSystem.actions.FindAction("Jump");
+        attackAction = InputSystem.actions.FindAction("Attack");
 
 
     }

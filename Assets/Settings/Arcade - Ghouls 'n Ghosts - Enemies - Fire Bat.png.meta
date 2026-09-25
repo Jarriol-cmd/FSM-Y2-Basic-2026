@@ -1,0 +1,1716 @@
+fileFormatVersion: 2
+guid: 9dbeb357e1411df408bb26a5454fcb82
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5744103791076020935
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_0
+  - first:
+      213: -1496904238190866491
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_1
+  - first:
+      213: 8526258303192366639
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_2
+  - first:
+      213: 8368221441803178187
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_3
+  - first:
+      213: -761371112107182987
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_4
+  - first:
+      213: -4573646624292251709
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_5
+  - first:
+      213: -5472382286364044524
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_6
+  - first:
+      213: 4959233161919192789
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_7
+  - first:
+      213: 1701552518368006461
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_8
+  - first:
+      213: 5729938916125309510
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_9
+  - first:
+      213: 8253403004571411694
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_10
+  - first:
+      213: -1704726862692480892
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_11
+  - first:
+      213: 1514396825994698682
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_12
+  - first:
+      213: -6365410242402063353
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_13
+  - first:
+      213: -1413475346249128577
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_14
+  - first:
+      213: -6577844143432265376
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_15
+  - first:
+      213: 1594622604505058623
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_16
+  - first:
+      213: 3581178803726948659
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_17
+  - first:
+      213: -7743990323475007410
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_18
+  - first:
+      213: 6933050125994222238
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_19
+  - first:
+      213: -9081190559142410047
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_20
+  - first:
+      213: 7577628936161721470
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_21
+  - first:
+      213: 3785416429904871905
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_22
+  - first:
+      213: 2660746006599534545
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_23
+  - first:
+      213: 3546560828757286671
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_24
+  - first:
+      213: 4306420281565714258
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_25
+  - first:
+      213: -6194213250427753718
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_26
+  - first:
+      213: -258089716767794820
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_27
+  - first:
+      213: 6462470689393225570
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_28
+  - first:
+      213: 4840189470963602219
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_29
+  - first:
+      213: -503472329263790914
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_30
+  - first:
+      213: 5114519933379762446
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_31
+  - first:
+      213: 5355468776729070467
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_32
+  - first:
+      213: -3391794503363195845
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_33
+  - first:
+      213: 3769335810325149599
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_34
+  - first:
+      213: 4150875401492742669
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_35
+  - first:
+      213: -7391752044516026994
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_36
+  - first:
+      213: 4319230336942164357
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_37
+  - first:
+      213: 4428285096375083931
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_38
+  - first:
+      213: -2265207248869838241
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_39
+  - first:
+      213: 9047031070995794246
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_40
+  - first:
+      213: 6159642340268950474
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_41
+  - first:
+      213: -5986357653315056799
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_42
+  - first:
+      213: -8889673532277016298
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_43
+  - first:
+      213: -4845020199755063694
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_44
+  - first:
+      213: 4670590599629967769
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_45
+  - first:
+      213: -7039126421630283744
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_46
+  - first:
+      213: -8135485001909473847
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_47
+  - first:
+      213: -4856882625897786128
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_48
+  - first:
+      213: -3253617039846399920
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_49
+  - first:
+      213: 7109976351076406768
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_50
+  - first:
+      213: -7386284237095197751
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_51
+  - first:
+      213: 186804478608463507
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_52
+  - first:
+      213: 63175522750876196
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_53
+  - first:
+      213: -2455248248911411105
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_54
+  - first:
+      213: -2279998171992666115
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_55
+  - first:
+      213: 3085556744722878385
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_56
+  - first:
+      213: -8227425594205926308
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_57
+  - first:
+      213: -1336760798519855353
+    second: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 179
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c29f04e6f727bf40800000000000000
+      internalID: 5744103791076020935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 181
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf4bdbb68de93be0800000000000000
+      internalID: -1496904238190866491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 177
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e7101b0ca535670800000000000000
+      internalID: 8526258303192366639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 148
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc05c788015e12470800000000000000
+      internalID: 8368221441803178187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 151
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5747b98e1011f65f0800000000000000
+      internalID: -761371112107182987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 150
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c755ee90a42780c0800000000000000
+      internalID: -4573646624292251709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 150
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4139122fd413e04b0800000000000000
+      internalID: -5472382286364044524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 148
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ded78e194cb2d440800000000000000
+      internalID: 4959233161919192789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 115
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d311fff00012d9710800000000000000
+      internalID: 1701552518368006461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 116
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64af550f515d48f40800000000000000
+      internalID: 5729938916125309510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 113
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4ee93ed4af98270800000000000000
+      internalID: 8253403004571411694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 113
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488062e43f79758e0800000000000000
+      internalID: -1704726862692480892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_12
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 111
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf946eb3e7340510800000000000000
+      internalID: 1514396825994698682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_13
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 126
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cedf32c1589a7a0800000000000000
+      internalID: -6365410242402063353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_14
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 111
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f756c0859a3526ce0800000000000000
+      internalID: -1413475346249128577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 81
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06116da3a9dc6b4a0800000000000000
+      internalID: -6577844143432265376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 80
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d05546fcc312610800000000000000
+      internalID: 1594622604505058623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 81
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3399d49e527e2b130800000000000000
+      internalID: 3581178803726948659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_18
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 80
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48b53984d1d78490800000000000000
+      internalID: -7743990323475007410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_19
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 94
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92ecd15b54273060800000000000000
+      internalID: 6933050125994222238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_20
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 77
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c88fa8fc4129f180800000000000000
+      internalID: -9081190559142410047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 94
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cf3a39e55292960800000000000000
+      internalID: 7577628936161721470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_22
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 79
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1486fdf20888430800000000000000
+      internalID: 3785416429904871905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 49
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d787e0556edce420800000000000000
+      internalID: 2660746006599534545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 69
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f9464884ae73130800000000000000
+      internalID: 3546560828757286671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_25
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 37
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25713400e6a73cb30800000000000000
+      internalID: 4306420281565714258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 45
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b6c39fddbb90aa0800000000000000
+      internalID: -6194213250427753718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 40
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79dfdf15c41b6cf0800000000000000
+      internalID: -258089716767794820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 61
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f28a43ade4fa950800000000000000
+      internalID: 6462470689393225570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b231f5eedaecb2340800000000000000
+      internalID: 4840189470963602219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb44ef3859e4309f0800000000000000
+      internalID: -503472329263790914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 19
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0951c118cc6af640800000000000000
+      internalID: 5114519933379762446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_32
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 36
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bc1aa5a72725a40800000000000000
+      internalID: 5355468776729070467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_33
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 27
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c0ae3aedcede0d0800000000000000
+      internalID: -3391794503363195845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_34
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 27
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97f69dd2fe5f4430800000000000000
+      internalID: 3769335810325149599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02c1e47f2fda9930800000000000000
+      internalID: 4150875401492742669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 36
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85dadebda83b6990800000000000000
+      internalID: -7391752044516026994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58947807b1df0fb30800000000000000
+      internalID: 4319230336942164357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93e79545dd647d30800000000000000
+      internalID: 4428285096375083931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52397c320e5090e0800000000000000
+      internalID: -2265207248869838241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 18
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64940aa63d28d8d70800000000000000
+      internalID: 9047031070995794246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_41
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3cf23c2127b7550800000000000000
+      internalID: 6159642340268950474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_42
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b07bf6e6f2ceca0800000000000000
+      internalID: -5986357653315056799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_43
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619bf6b950981a480800000000000000
+      internalID: -8889673532277016298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ed1006cc703ccb0800000000000000
+      internalID: -4845020199755063694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_45
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991193e876541d040800000000000000
+      internalID: 4670590599629967769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_46
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02019ad70dfff4e90800000000000000
+      internalID: -7039126421630283744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_47
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdeaa19e73f81f80800000000000000
+      internalID: -8135485001909473847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_48
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 18
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4989f0cf2e89cb0800000000000000
+      internalID: -4856882625897786128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 18
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0502cc86a84d8d2d0800000000000000
+      internalID: -3253617039846399920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5565f22d5bba260800000000000000
+      internalID: 7109976351076406768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_51
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3afddde95ae7990800000000000000
+      internalID: -7386284237095197751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_52
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396d8edfea9a79200800000000000000
+      internalID: 186804478608463507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ac010adc170e000800000000000000
+      internalID: 63175522750876196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_54
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f584c30e9b43dedd0800000000000000
+      internalID: -2455248248911411105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_55
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff46d51eb1db50e0800000000000000
+      internalID: -2279998171992666115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_56
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf8487e28912da20800000000000000
+      internalID: 3085556744722878385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_57
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c0669430052dd80800000000000000
+      internalID: -8227425594205926308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7077e8ed22fd27de0800000000000000
+      internalID: -1336760798519855353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_0: 5744103791076020935
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_1: -1496904238190866491
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_10: 8253403004571411694
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_11: -1704726862692480892
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_12: 1514396825994698682
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_13: -6365410242402063353
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_14: -1413475346249128577
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_15: -6577844143432265376
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_16: 1594622604505058623
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_17: 3581178803726948659
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_18: -7743990323475007410
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_19: 6933050125994222238
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_2: 8526258303192366639
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_20: -9081190559142410047
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_21: 7577628936161721470
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_22: 3785416429904871905
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_23: 2660746006599534545
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_24: 3546560828757286671
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_25: 4306420281565714258
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_26: -6194213250427753718
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_27: -258089716767794820
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_28: 6462470689393225570
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_29: 4840189470963602219
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_3: 8368221441803178187
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_30: -503472329263790914
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_31: 5114519933379762446
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_32: 5355468776729070467
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_33: -3391794503363195845
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_34: 3769335810325149599
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_35: 4150875401492742669
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_36: -7391752044516026994
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_37: 4319230336942164357
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_38: 4428285096375083931
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_39: -2265207248869838241
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_4: -761371112107182987
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_40: 9047031070995794246
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_41: 6159642340268950474
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_42: -5986357653315056799
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_43: -8889673532277016298
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_44: -4845020199755063694
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_45: 4670590599629967769
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_46: -7039126421630283744
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_47: -8135485001909473847
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_48: -4856882625897786128
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_49: -3253617039846399920
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_5: -4573646624292251709
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_50: 7109976351076406768
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_51: -7386284237095197751
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_52: 186804478608463507
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_53: 63175522750876196
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_54: -2455248248911411105
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_55: -2279998171992666115
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_56: 3085556744722878385
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_57: -8227425594205926308
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_58: -1336760798519855353
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_6: -5472382286364044524
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_7: 4959233161919192789
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_8: 1701552518368006461
+      Arcade - Ghouls 'n Ghosts - Enemies - Fire Bat_9: 5729938916125309510
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

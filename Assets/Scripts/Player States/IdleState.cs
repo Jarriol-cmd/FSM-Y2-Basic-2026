@@ -16,14 +16,12 @@ public class IdleState : State
     {
         // this method is called when the state begins
 
-        Debug.Log("entering idle state");
         player.sr.color = new Color(0.5f, 0.8f, 0.7f);
     }
 
     public override void Exit()
     {
         // this method is called when the state has finished
-        Debug.Log("exiting idle state");
 
         //you should disable any running coroutines here
         player.StopAllCoroutines();
@@ -32,7 +30,13 @@ public class IdleState : State
 
     public override void Update()
     {
-        if( player.moveAction.ReadValue<Vector2>().magnitude > 0.1f )
+        player.anim.SetBool("Idle", true);
+        player.anim.SetBool("Run", false);
+        player.anim.SetBool("Death", false);
+        player.anim.SetBool("Attack", false);
+        player.anim.SetBool("Jump", false);
+
+        if ( player.moveAction.ReadValue<Vector2>().magnitude > 0.1f )
         {
             sm.ChangeState(sm.runState);
         }
@@ -42,6 +46,11 @@ public class IdleState : State
             sm.ChangeState(sm.jumpState);
         }
 
+
+        if(player.attackAction.IsPressed())
+        {
+            sm.ChangeState(sm.attackState);
+        }
 
         //example of running a coroutine from a state and not directly from the monobehaviour
         if (player.crouchAction.IsPressed())
@@ -53,6 +62,7 @@ public class IdleState : State
         UIscript.ui.DrawText("Space = Jump State");
         UIscript.ui.DrawText("Left/Right arrows = Move State");
         UIscript.ui.DrawText("C = Start the coroutine");
+        UIscript.ui.DrawText("Enter to Attack");
 
 
     }
@@ -83,7 +93,15 @@ public class IdleState : State
         yield break;
     }
 
+    public override void OnTriggerEnter2D(Collider2D collision)
+    {
+        Debug.Log("collided in idle state");
 
+        if (collision.tag == "enemy")
+        {
+            sm.ChangeState(sm.deathState);
+        }
+    }
 
 
 }

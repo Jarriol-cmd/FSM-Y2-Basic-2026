@@ -33,10 +33,12 @@ public class RunState : State
 
     public override void Update()
     {
+        player.anim.SetBool("Idle", false);
+        player.anim.SetBool("Run", true);
+        player.anim.SetBool("Death", false);
+        player.anim.SetBool("Attack", false);
+        player.anim.SetBool("Jump", false);
 
-        TestMethod("hello");
-
-        
 
         ReadInput();
 
@@ -50,6 +52,12 @@ public class RunState : State
             sm.ChangeState(sm.jumpState);
         }
 
+        if (player.attackAction.IsPressed())
+        {
+            sm.ChangeState(sm.attackState);
+        }
+
+
         //debug move gameObject
         player.rb.linearVelocity = player.moveAction.ReadValue<Vector2>() * speed;
 
@@ -58,6 +66,7 @@ public class RunState : State
         UIscript.ui.DrawText("Left/Right arrows = Move Sprite");
         UIscript.ui.DrawText("E = Idle State");
         UIscript.ui.DrawText("Space = Jump state");
+        UIscript.ui.DrawText("Enter to Attack");
 
 
 
@@ -79,10 +88,9 @@ public class RunState : State
         if (collision.tag == "enemy")
         {
             collision.GetComponent<SpriteRenderer>().color = new Color(0.1f, 0.1f, 0.1f);
+            sm.ChangeState(sm.deathState);
         }
     }
-
-
 
     public override void FixedUpdate()
     {

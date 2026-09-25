@@ -13,6 +13,7 @@ public abstract class State
     public float verticalInput;
     public float horizontalInput;
 
+    
 
     // base constructor
     public State(PlayerScript player, StateMachine sm)
