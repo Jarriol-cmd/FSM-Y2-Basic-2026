@@ -21,11 +21,14 @@ public class RunState : State
 
         Debug.Log("entering running state");
 
-        player.sr.color = new Color(0.8f, 0.8f, 0.2f);
+        
+        player.anim.SetBool("Run", true);
+        
     }
 
     public override void Exit()
     {
+        player.anim.SetBool("Run", false);
         base.Exit();
     }
 
@@ -33,16 +36,11 @@ public class RunState : State
 
     public override void Update()
     {
-        player.anim.SetBool("Idle", false);
-        player.anim.SetBool("Run", true);
-        player.anim.SetBool("Dead", false);
-        player.anim.SetBool("Attack", false);
-        player.anim.SetBool("Jump", false);
 
 
         ReadInput();
 
-        if (player.interactAction.IsPressed())
+        if (player.moveAction.ReadValue<Vector2>().magnitude < 0.1f)
         {
             sm.ChangeState(sm.idleState);
         }
@@ -63,8 +61,6 @@ public class RunState : State
 
 
         UIscript.ui.DrawText("*** This is the running state ***\n");
-        UIscript.ui.DrawText("Left/Right arrows = Move Sprite");
-        UIscript.ui.DrawText("E = Idle State");
         UIscript.ui.DrawText("Space = Jump state");
         UIscript.ui.DrawText("Enter to Attack");
 
@@ -78,7 +74,7 @@ public class RunState : State
 
         if( collision.tag == "enemy")
         {
-            collision.GetComponent<SpriteRenderer>().color = new Color(1, 0, 0);
+            
             sm.ChangeState(sm.deathState);
         }
     }
@@ -88,7 +84,7 @@ public class RunState : State
 
         if (collision.tag == "enemy")
         {
-            collision.GetComponent<SpriteRenderer>().color = new Color(0.1f, 0.1f, 0.1f);
+            
             
         }
     }

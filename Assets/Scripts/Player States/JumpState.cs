@@ -16,22 +16,17 @@ public class JumpState : State
 
     public override void Enter()
     {
-
-        player.sr.color = new Color(0.8f, 0.3f, 0.4f);  //change the sprite colour
+        player.anim.SetBool("Jump", true);
     }
 
     public override void Exit()
     {
-        //exit the jump state
+        player.anim.SetBool("Jump", false);
     }
 
     public override void Update()
     {
-        player.anim.SetBool("Idle", true);
-        player.anim.SetBool("Run", true);
-        player.anim.SetBool("Dead", true);
-        player.anim.SetBool("Attack", true);
-        player.anim.SetBool("Jump", true);
+        
 
         ReadInput();
 
@@ -58,6 +53,8 @@ public class JumpState : State
         UIscript.ui.DrawText("Enter to Attack");
 
 
+
+        
     }
 
     public override void OnTriggerEnter2D(Collider2D collision)

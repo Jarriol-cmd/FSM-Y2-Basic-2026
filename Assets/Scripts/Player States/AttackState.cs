@@ -10,22 +10,19 @@ public class AttackState : State
     public override void Enter()
     {
 
-        player.sr.color = new Color(0.1f, 0.1f, 0.1f);  //change the sprite colour
+        player.anim.SetBool("Attack", true);
     }
 
 
     public override void Exit()
     {
         base.Exit();
+        player.anim.SetBool("Attack", false);
     }
 
     public override void Update()
     {
-        player.anim.SetBool("Idle", false);
-        player.anim.SetBool("Run", false);
-        player.anim.SetBool("Dead", false);
-        player.anim.SetBool("Attack", true);
-        player.anim.SetBool("Jump", false);
+        
 
 
         if (player.interactAction.IsPressed())

@@ -10,22 +10,21 @@ public class DeathState : State
     public override void Enter()
     {
 
-        player.sr.color = new Color(0.9f, 0.9f, 0.9f);  //change the sprite colour
+        player.anim.SetBool("Dead", true);
     }
 
 
     public override void Exit()
     {
         base.Exit();
+        player.anim.SetBool("Dead", false);
     }
 
     public override void Update()
     {
-        player.anim.SetBool("Idle", false);
-        player.anim.SetBool("Run", false);
-        player.anim.SetBool("Dead", true);
-        player.anim.SetBool("Attack", false);
-        player.anim.SetBool("Jump", false);
+        
+        
+        
 
 
         if (player.interactAction.IsPressed())

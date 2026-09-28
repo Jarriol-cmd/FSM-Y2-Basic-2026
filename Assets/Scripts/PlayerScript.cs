@@ -8,8 +8,9 @@ using UnityEngine.InputSystem;
 public class PlayerScript : MonoBehaviour
 {
     public SpriteRenderer sr;
-    public Rigidbody2D rb;
     StateMachine sm;
+
+    public Rigidbody2D rb;
 
     //define the actions
     public InputAction moveAction;
@@ -37,6 +38,7 @@ public class PlayerScript : MonoBehaviour
         jumpAction = InputSystem.actions.FindAction("Jump");
         attackAction = InputSystem.actions.FindAction("Attack");
 
+        
 
     }
 
