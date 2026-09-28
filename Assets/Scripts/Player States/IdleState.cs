@@ -32,7 +32,7 @@ public class IdleState : State
     {
         player.anim.SetBool("Idle", true);
         player.anim.SetBool("Run", false);
-        player.anim.SetBool("Death", false);
+        player.anim.SetBool("Dead", false);
         player.anim.SetBool("Attack", false);
         player.anim.SetBool("Jump", false);
 
@@ -103,5 +103,14 @@ public class IdleState : State
         }
     }
 
+    public override void OnTriggerStay2D(Collider2D collision)
+    {
+        Debug.Log("collided in idle state");
+
+        if (collision.tag == "enemy")
+        {
+            sm.ChangeState(sm.deathState);
+        }
+    }
 
 }

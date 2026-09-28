@@ -35,7 +35,7 @@ public class RunState : State
     {
         player.anim.SetBool("Idle", false);
         player.anim.SetBool("Run", true);
-        player.anim.SetBool("Death", false);
+        player.anim.SetBool("Dead", false);
         player.anim.SetBool("Attack", false);
         player.anim.SetBool("Jump", false);
 
@@ -79,6 +79,7 @@ public class RunState : State
         if( collision.tag == "enemy")
         {
             collision.GetComponent<SpriteRenderer>().color = new Color(1, 0, 0);
+            sm.ChangeState(sm.deathState);
         }
     }
     public override void OnTriggerExit2D(Collider2D collision)
@@ -88,6 +89,16 @@ public class RunState : State
         if (collision.tag == "enemy")
         {
             collision.GetComponent<SpriteRenderer>().color = new Color(0.1f, 0.1f, 0.1f);
+            
+        }
+    }
+
+    public override void OnTriggerStay2D(Collider2D collision)
+    {
+        Debug.Log("collided in run state");
+
+        if (collision.tag == "enemy")
+        {
             sm.ChangeState(sm.deathState);
         }
     }

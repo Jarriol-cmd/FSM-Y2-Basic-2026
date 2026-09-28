@@ -29,7 +29,7 @@ public class JumpState : State
     {
         player.anim.SetBool("Idle", true);
         player.anim.SetBool("Run", true);
-        player.anim.SetBool("Death", true);
+        player.anim.SetBool("Dead", true);
         player.anim.SetBool("Attack", true);
         player.anim.SetBool("Jump", true);
 
@@ -61,6 +61,16 @@ public class JumpState : State
     }
 
     public override void OnTriggerEnter2D(Collider2D collision)
+    {
+        Debug.Log("collided in jump state");
+
+        if (collision.tag == "enemy")
+        {
+            sm.ChangeState(sm.deathState);
+        }
+    }
+
+    public override void OnTriggerStay2D(Collider2D collision)
     {
         Debug.Log("collided in jump state");
 

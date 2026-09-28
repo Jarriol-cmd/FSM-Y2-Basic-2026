@@ -23,7 +23,7 @@ public class AttackState : State
     {
         player.anim.SetBool("Idle", false);
         player.anim.SetBool("Run", false);
-        player.anim.SetBool("Death", false);
+        player.anim.SetBool("Dead", false);
         player.anim.SetBool("Attack", true);
         player.anim.SetBool("Jump", false);
 

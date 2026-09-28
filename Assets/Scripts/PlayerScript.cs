@@ -64,6 +64,10 @@ public class PlayerScript : MonoBehaviour
     {
         sm.currentState.OnTriggerEnter2D(collision);
     }
+    private void OnTriggerStay2D(Collider2D collision)
+    {
+        sm.currentState.OnTriggerStay2D(collision);
+    }
     void OnTriggerExit2D(Collider2D collision)
     {
         sm.currentState.OnTriggerExit2D(collision);
