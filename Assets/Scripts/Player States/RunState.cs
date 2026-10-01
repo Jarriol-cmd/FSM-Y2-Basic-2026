@@ -3,10 +3,10 @@
 //This means it inherits fields and methods from State.cs
 
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class RunState : State
 {
-    protected float speed;
     protected float rotationSpeed;
 
     public RunState(PlayerScript player, StateMachine sm) : base(player, sm)
@@ -23,6 +23,7 @@ public class RunState : State
 
         
         player.anim.SetBool("Run", true);
+        isGrounded = true;
         
     }
 
@@ -36,16 +37,16 @@ public class RunState : State
 
     public override void Update()
     {
-
+        GroundCheck();
 
         ReadInput();
 
-        if (player.moveAction.ReadValue<Vector2>().magnitude < 0.1f)
+        if (player.moveAction.ReadValue<Vector2>().magnitude < 0.1f && isGrounded == true)
         {
             sm.ChangeState(sm.idleState);
         }
 
-        if (player.jumpAction.IsPressed())
+        if (player.jumpAction.IsPressed() && isGrounded == true)
         {
             sm.ChangeState(sm.jumpState);
         }
@@ -56,15 +57,33 @@ public class RunState : State
         }
 
 
-        //debug move gameObject
-        player.rb.linearVelocity = player.moveAction.ReadValue<Vector2>() * speed;
+        
+         player.rb.linearVelocityX = player.moveAction.ReadValue<Vector2>().x * speed;
 
+        if (player.rb.linearVelocityX > 0)
+        {
+            isFacingRight = true;
+        }
+
+        if (player.rb.linearVelocityX < 0)
+        {
+            isFacingRight = false;
+        }    
 
         UIscript.ui.DrawText("*** This is the running state ***\n");
         UIscript.ui.DrawText("Space = Jump state");
         UIscript.ui.DrawText("Enter to Attack");
 
+        if (player.rb.linearVelocityX >= 0 && isFacingRight == true)
+        {
+            DoFlipObject(false);
+            
+        }
 
+        if (player.rb.linearVelocityX <= -0 && isFacingRight == false)
+        {
+            DoFlipObject(true);
+        }
 
     }
 

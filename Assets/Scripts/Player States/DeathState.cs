@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class DeathState : State
 {
+    float deadFor;
 
     public DeathState(PlayerScript player, StateMachine sm) : base(player, sm)
     {
@@ -9,7 +10,7 @@ public class DeathState : State
 
     public override void Enter()
     {
-
+        deadFor = 3f;
         player.anim.SetBool("Dead", true);
     }
 
@@ -22,30 +23,31 @@ public class DeathState : State
 
     public override void Update()
     {
-        
+        GroundCheck();
+        deadFor -= Time.deltaTime;
         
         
 
 
-        if (player.interactAction.IsPressed())
+        if (player.rb.linearVelocityX < 0.1f && deadFor <= 0 && isGrounded == true)
         {
             sm.ChangeState(sm.idleState);
         }
 
-        if (player.moveAction.ReadValue<Vector2>().magnitude > 0.1f)
+        if (player.rb.linearVelocityX > 0.1f && deadFor <= 0 && isGrounded == true)
         {
             sm.ChangeState(sm.runState);
         }
 
-        if (player.jumpAction.IsPressed())
+        if (player.jumpAction.IsPressed() && deadFor <= 0)
         {
             sm.ChangeState(sm.jumpState);
         }
 
         UIscript.ui.DrawText("*** You Are Dead ***\n");
         UIscript.ui.DrawText("Space to Jump");
-        UIscript.ui.DrawText("Arrows to Move");
-        UIscript.ui.DrawText("E to Idle");
+        UIscript.ui.DrawText("Arrows to Move on the ground");
+        UIscript.ui.DrawText("Do nothing to Idle");
 
 
     }

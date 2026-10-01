@@ -205,6 +205,9 @@ MonoBehaviour:
     m_Flags: 0
     m_Priority: 0
   anim: {fileID: 295177921}
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 64
 --- !u!212 &295177917
 SpriteRenderer:
   serializedVersion: 3
@@ -730,7 +733,7 @@ GameObject:
   - component: {fileID: 1255876936}
   - component: {fileID: 1255876935}
   - component: {fileID: 1255876938}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square
   m_TagString: ground
   m_Icon: {fileID: 0}

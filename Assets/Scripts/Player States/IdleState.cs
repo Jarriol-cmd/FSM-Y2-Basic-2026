@@ -17,6 +17,7 @@ public class IdleState : State
         // this method is called when the state begins
 
         player.anim.SetBool("Idle", true);
+        isGrounded = true;
     }
 
     public override void Exit()
@@ -30,7 +31,8 @@ public class IdleState : State
     public override void Update()
     {
 
-        if ( player.moveAction.ReadValue<Vector2>().magnitude > 0.1f )
+
+        if ( player.moveAction.ReadValue<Vector2>().magnitude > 0.1f && isGrounded == true )
         {
             sm.ChangeState(sm.runState);
         }

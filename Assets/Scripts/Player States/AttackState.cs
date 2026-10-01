@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class AttackState : State
 {
+    float timer = 0f;
 
     public AttackState(PlayerScript player, StateMachine sm) : base(player, sm)
     {
@@ -9,7 +10,7 @@ public class AttackState : State
 
     public override void Enter()
     {
-
+        timer = 1f;
         player.anim.SetBool("Attack", true);
     }
 
@@ -22,20 +23,21 @@ public class AttackState : State
 
     public override void Update()
     {
-        
+        GroundCheck();
 
+        timer -= Time.deltaTime;
 
-        if (player.interactAction.IsPressed())
+        if (player.rb.linearVelocityX < 0.1f && isGrounded == true && timer <= 0)
         {
             sm.ChangeState(sm.idleState);
         }
 
-        if (player.moveAction.ReadValue<Vector2>().magnitude > 0.1f)
+        if (player.rb.linearVelocityX > 0.1f && isGrounded == true && timer <= 0)
         {
             sm.ChangeState(sm.runState);
         }
 
-        if (player.jumpAction.IsPressed())
+        if (player.jumpAction.IsPressed() && isGrounded == true)
         {
             sm.ChangeState(sm.jumpState);
         }
@@ -43,7 +45,7 @@ public class AttackState : State
         UIscript.ui.DrawText("*** You have Attacked ***\n");
         UIscript.ui.DrawText("Space to Jump");
         UIscript.ui.DrawText("Arrows to Move");
-        UIscript.ui.DrawText("E to Idle");
+        UIscript.ui.DrawText("Do nothing to Idle");
 
 
     }
