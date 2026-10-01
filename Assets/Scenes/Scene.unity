@@ -152,6 +152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e7894fa3dcd145649a1994eaeacd2df4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  weapon: {fileID: 3343237167893748104, guid: 700874857093811429914dbc13bc2b50, type: 3}
   sr: {fileID: 0}
   rb: {fileID: 295177919}
   moveAction:
@@ -179,16 +180,6 @@ MonoBehaviour:
     m_Type: 0
     m_ExpectedControlType: 
     m_Id: 967f8e27-dd61-4df2-8dc5-755f1f52fdf0
-    m_Processors: 
-    m_Interactions: 
-    m_SingletonActionBindings: []
-    m_Flags: 0
-    m_Priority: 0
-  interactAction:
-    m_Name: Interact
-    m_Type: 0
-    m_ExpectedControlType: 
-    m_Id: c8d41039-4070-47e3-b838-3330dad95092
     m_Processors: 
     m_Interactions: 
     m_SingletonActionBindings: []

@@ -1,4 +1,5 @@
 using UnityEngine;
+using static UnityEngine.RuleTile.TilingRuleOutput;
 
 public class AttackState : State
 {
@@ -46,6 +47,7 @@ public class AttackState : State
         UIscript.ui.DrawText("Space to Jump");
         UIscript.ui.DrawText("Arrows to Move");
         UIscript.ui.DrawText("Do nothing to Idle");
+
 
 
     }

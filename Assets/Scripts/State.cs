@@ -88,4 +88,36 @@ public abstract class State
         }
     }
 
+
+    /*void SpawnWeapon()
+    {
+        if (isFacingRight == true)
+        {
+            GameObject clone;
+            clone = Instantiate(weapon, transform.position, Quaternion.identity);
+
+            Rigidbody2D rb = clone.GetComponent<Rigidbody2D>();
+
+            rb.linearVelocity = new Vector2(15, 0);
+
+            rb.transform.position = new Vector3(transform.position.x + 0.75f, transform.position.y, transform.position.z);
+
+            rb.transform.Rotate(new Vector3(0, 0, 315));
+        }
+
+        if (isFacingRight == false)
+        {
+            GameObject clone;
+            clone = Instantiate(weapon, transform.position, Quaternion.identity);
+
+            Rigidbody2D rb = clone.GetComponent<Rigidbody2D>();
+
+            rb.linearVelocity = new Vector2(-15, 0);
+
+            rb.transform.position = new Vector3(transform.position.x - 0.75f, transform.position.y, transform.position.z);
+
+            rb.transform.Rotate(new Vector3(0, 0, 135));
+        }
+    }
+    */
 }

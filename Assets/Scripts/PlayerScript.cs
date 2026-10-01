@@ -7,6 +7,9 @@ using UnityEngine.InputSystem;
 
 public class PlayerScript : MonoBehaviour
 {
+
+    public GameObject weapon;
+
     public SpriteRenderer sr;
     StateMachine sm;
 
