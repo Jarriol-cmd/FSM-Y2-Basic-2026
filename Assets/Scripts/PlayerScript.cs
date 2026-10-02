@@ -25,6 +25,8 @@ public class PlayerScript : MonoBehaviour
     public Animator anim;
 
     public LayerMask groundLayer;
+    public bool isFacingRight;
+
 
     private void Start()
     {

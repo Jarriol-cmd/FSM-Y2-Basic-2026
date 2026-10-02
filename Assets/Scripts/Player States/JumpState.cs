@@ -53,12 +53,12 @@ public class JumpState : State
 
         if (player.rb.linearVelocityX > 0)
         {
-            isFacingRight = true;
+            player.isFacingRight = true;
         }
 
         if (player.rb.linearVelocityX < 0)
         {
-            isFacingRight = false;
+            player.isFacingRight = false;
         }
 
         UIscript.ui.DrawText("*** This is the jumping state ***\n");
@@ -67,13 +67,13 @@ public class JumpState : State
         UIscript.ui.DrawText("Enter to Attack");
 
 
-        if (player.rb.linearVelocityX >= 0 && isFacingRight == true)
+        if (player.rb.linearVelocityX >= 0 && player.isFacingRight == true)
         {
             DoFlipObject(false);
 
         }
 
-        if (player.rb.linearVelocityX <= -0 && isFacingRight == false)
+        if (player.rb.linearVelocityX <= -0 && player.isFacingRight == false)
         {
             DoFlipObject(true);
         }

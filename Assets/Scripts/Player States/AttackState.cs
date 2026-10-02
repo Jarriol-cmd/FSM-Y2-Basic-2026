@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 using static UnityEngine.RuleTile.TilingRuleOutput;
 
@@ -26,6 +27,8 @@ public class AttackState : State
     {
         GroundCheck();
 
+        Debug.Log("attack:" + player.isFacingRight);
+
         timer -= Time.deltaTime;
 
         if (player.rb.linearVelocityX < 0.1f && isGrounded == true && timer <= 0)
@@ -44,10 +47,34 @@ public class AttackState : State
         }
 
         UIscript.ui.DrawText("*** You have Attacked ***\n");
-        UIscript.ui.DrawText("Space to Jump");
-        UIscript.ui.DrawText("Arrows to Move");
-        UIscript.ui.DrawText("Do nothing to Idle");
 
+        if (player.isFacingRight == true)
+        {
+            GameObject clone;
+            clone = GameObject.Instantiate(player.weapon, player.transform.position, Quaternion.identity);
+
+            Rigidbody2D rb = clone.GetComponent<Rigidbody2D>();
+
+            rb.linearVelocity = new Vector2(15, 0);
+
+            rb.transform.position = new Vector3(player.transform.position.x + 0.75f, player.transform.position.y, player.transform.position.z);
+
+            rb.transform.Rotate(new Vector3(0, 0, 315));
+        }
+
+        if (player.isFacingRight == false)
+        {
+            GameObject clone;
+            clone = GameObject.Instantiate(player.weapon, player.transform.position, Quaternion.identity);
+
+            Rigidbody2D rb = clone.GetComponent<Rigidbody2D>();
+
+            rb.linearVelocity = new Vector2(-15, 0);
+
+            rb.transform.position = new Vector3(player.transform.position.x - 0.75f, player.transform.position.y, player.transform.position.z);
+
+            rb.transform.Rotate(new Vector3(0, 0, 135));
+        }
 
 
     }

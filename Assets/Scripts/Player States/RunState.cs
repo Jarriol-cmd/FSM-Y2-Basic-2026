@@ -62,29 +62,33 @@ public class RunState : State
 
         if (player.rb.linearVelocityX > 0)
         {
-            isFacingRight = true;
+            player.isFacingRight = true;
+            
         }
 
         if (player.rb.linearVelocityX < 0)
         {
-            isFacingRight = false;
+            player.isFacingRight = false;
+            
         }    
 
         UIscript.ui.DrawText("*** This is the running state ***\n");
         UIscript.ui.DrawText("Space = Jump state");
         UIscript.ui.DrawText("Enter to Attack");
 
-        if (player.rb.linearVelocityX >= 0 && isFacingRight == true)
+        if (player.rb.linearVelocityX >= 0 && player.isFacingRight == true)
         {
             DoFlipObject(false);
             
         }
 
-        if (player.rb.linearVelocityX <= -0 && isFacingRight == false)
+        if (player.rb.linearVelocityX <= -0 && player.isFacingRight == false)
         {
             DoFlipObject(true);
         }
 
+
+        Debug.Log(player.isFacingRight);
     }
 
     public override void OnTriggerEnter2D(Collider2D collision)
